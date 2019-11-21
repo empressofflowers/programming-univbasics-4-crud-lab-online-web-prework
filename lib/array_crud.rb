@@ -1,4 +1,4 @@
-def create_an_empty_array = 0
+def create_an_empty_array = nil
   
 end
 
